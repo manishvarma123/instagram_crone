@@ -1,0 +1,15 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Optional: Other common files/folders to ignore
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
